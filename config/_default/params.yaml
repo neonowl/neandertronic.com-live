@@ -11,17 +11,12 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Business
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Neandertronic Pictures -- Blurring the Edge in the 21st Century'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
   verification:
     google: ''
     baidu: ''
@@ -39,7 +34,7 @@ header:
       filename: "logo.gif"
     button:
       enable: true
-      text: "Get Started"
+      text: "Try HugoBlox"
       url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
@@ -47,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} neonowl.website'
+    notice: '© {year} DRTYBB LLC'
 
 # Localization
 locale:
